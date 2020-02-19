@@ -1,0 +1,10 @@
+item_quantity,item_name,item_price,tax_rate
+40,Book,12.49,0.0%
+45,Music CD,14.99,10.0%
+50,Chocolate Bar,0.85,0.0%
+34,Imported Box Of Chocolates,10.00,5.0%
+35,Imported Bottle Of Perfume,47.5,15.0%
+56,Imported Bottle Of Perfume,27.99,15.0%
+23,Bottle Of Perfume,18.99,10.0%
+14,Packet Of Headache Pills,9.75,0.0%
+54,Box of Imported Chocolate,11.25,5.0%
